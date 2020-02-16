@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Lacquer&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Bree Serif', serif;
+	font-size: 18px;
+	margin: 0;
+	background-color: #feff04;
+}
+
+h1 {
+	font-family: 'Lacquer', sans-serif;
+	font-weight: bold;
+}
+
+h2, h3 {
+	font-family: 'Lacquer', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: yellow;
+	text-align: center;
+	letter-spacing: -0.8px;
+	font-size: 15px;
+}
+
+p {
+	font-family: 'Bree Serif', serif;
+	color: black;
+	font-size: 16px;
+	margin: 15px;
+	font-weight: 100;
+	letter-spacing: -0.2px;
+}
